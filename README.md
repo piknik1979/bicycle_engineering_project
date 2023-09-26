@@ -38,4 +38,5 @@ Extracting meaningful insights from the data.
 Using PowerBI-generated visuals to present findings.
 
 I've written Python code and created a Data Analysis report using PowerBI, which are **both available in this repository for review**. This project not only demonstrates my data analysis skills but also provides actionable insights for Matrix Manufacturing and Retail's decision-making.
+
 I have also prepared some project visualizations with Python only: **https://replit.com/@tpikniczka/DataProject#main.py**
