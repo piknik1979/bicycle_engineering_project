@@ -1,9 +1,10 @@
-# bicycle_engineering_project
+## bicycle_engineering_project
 ## Data Engineering and Analytical Tools Project
 
 # Project Title: Matrix Manufacturing and Retail Data Analysis
 
-Project Description:
+#Project Description:
+
 As a Data Analyst at Gateshead College's Data Engineering Bootcamp, I've taken on a crucial project for Matrix Manufacturing and Retail. My role involves providing insights and data-driven guidance for the company, which sells over 100 bicycle-related products nationwide.
 
 My immediate task is to create a comprehensive report for an upcoming meeting between my manager and senior executives. The report covers:
