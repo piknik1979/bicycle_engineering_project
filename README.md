@@ -9,13 +9,13 @@ As a Data Analyst at Gateshead College's Data Engineering Bootcamp, I've taken o
 
 My immediate task is to create a comprehensive report for an upcoming meeting between my manager and senior executives. The report covers:
 
-Bike Product Category Performance: Assessing how frames and mountain bikes are performing in terms of sales.
+**Bike Product Category Performance:** Assessing how frames and mountain bikes are performing in terms of sales.
 
-Product Sales Breakdown: Providing detailed sales breakdowns for each bicycle product.
+**Product Sales Breakdown:** Providing detailed sales breakdowns for each bicycle product.
 
-Customer Loyalty Analysis: Presenting insights on customer loyalty and purchasing behavior.
+**Customer Loyalty Analysis:** Presenting insights on customer loyalty and purchasing behavior.
 
-Recommendations and Insights: Offering informed recommendations and insights based on my analysis.
+**Recommendations and Insights:** Offering informed recommendations and insights based on my analysis.
 
 # The project was planned and executed by:
 
