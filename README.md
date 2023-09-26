@@ -21,14 +21,19 @@ My immediate task is to create a comprehensive report for an upcoming meeting be
 
 **Project Planning:** 
 Creating a timeline and task breakdown.
+
 **Requirements Gathering:** 
 Documenting my approach to gather requirements.
+
 **Data Gathering:** 
 Using Python to extract relevant data tables from the MS SQL database.
+
 **Data Analysis:** 
 Employing Python for data analysis and PowerBI for visualization.
+
 **Insight Generation**
 Extracting meaningful insights from the data.
+
 **Recommendation Communication:** 
 Using PowerBI-generated visuals to present findings.
 
