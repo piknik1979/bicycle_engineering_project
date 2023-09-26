@@ -1,4 +1,4 @@
-## bicycle_engineering_project
+
 ## Data Engineering and Analytical Tools Project
 
 # Project Title: Matrix Manufacturing and Retail Data Analysis
