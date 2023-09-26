@@ -19,10 +19,11 @@ Recommendations and Insights: Offering informed recommendations and insights bas
 
 # I've planned and executed this project by:
 
-Project Planning: Creating a timeline and task breakdown.
-Requirements Gathering: Documenting my approach to gather requirements.
-Data Gathering: Using Python to extract relevant data tables from the MS SQL database.
-Data Analysis: Employing Python for data analysis and PowerBI for visualization.
-Insight Generation: Extracting meaningful insights from the data.
-Recommendation Communication: Using PowerBI-generated visuals to present findings.
+**Project Planning:** Creating a timeline and task breakdown.
+**Requirements Gathering:** Documenting my approach to gather requirements.
+**Data Gathering:** Using Python to extract relevant data tables from the MS SQL database.
+**Data Analysis:** Employing Python for data analysis and PowerBI for visualization.
+**Insight Generation**: Extracting meaningful insights from the data.
+**Recommendation Communication: **Using PowerBI-generated visuals to present findings.
+
 I've already written Python code and created a Data Analysis report using PowerBI, which are both available in this repository for review. This project not only demonstrates my data analysis skills but also provides actionable insights for Matrix Manufacturing and Retail's decision-making.
