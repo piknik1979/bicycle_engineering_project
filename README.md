@@ -17,7 +17,7 @@ Customer Loyalty Analysis: Presenting insights on customer loyalty and purchasin
 
 Recommendations and Insights: Offering informed recommendations and insights based on my analysis.
 
-# I've planned and executed this project by:
+# The project was planned and executed this project by:
 
 **Project Planning:** Creating a timeline and task breakdown.
 **Requirements Gathering:** Documenting my approach to gather requirements.
